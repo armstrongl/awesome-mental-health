@@ -21,6 +21,7 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 ## Contents
 
 - [Contents](#contents)
+- [Open Source Apps](#open-source-apps)
 - [Tools](#tools)
 - [Blogs](#blogs)
 - [Books](#books)
@@ -30,6 +31,50 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 - [Related lists](#related-lists)
 
 <!-- CONTENT -->
+
+## Open Source Apps
+
+### CBT and Therapy
+
+- [Quirk](https://github.com/Flaque/quirk) - GPL-licensed cognitive behavioral therapy app for iOS and Android, used widely as a teaching tool.
+- [Chat CBT (Obsidian Plugin)](https://github.com/clairefro/obsidian-chat-cbt-plugin) - AI-powered journaling plugin for Obsidian inspired by cognitive behavioral therapy.
+- [CBTTool](https://github.com/funkatron/CBTTool) - Simple web-based cognitive behavior therapy tool for thought challenging exercises.
+- [CBT Planner](https://github.com/imranzaidi/cbt-planner) - Cognitive behavioral therapy planner for personal organization and life management.
+
+### Meditation and Mindfulness
+
+- [Medito](https://github.com/meditohq/medito-app) - Completely free meditation app built with Flutter, available on Android and iOS.
+- [Hey Linda](https://github.com/heylinda/heylinda-app) - Free open-source meditation app alternative built with React Native and Expo.
+- [Serenity](https://github.com/YajanaRao/Serenity) - Free and open-source app for guided meditation, music, and podcasts.
+- [InBreeze](https://github.com/waozixyz/inbreeze) - Guided breathing meditation app based on the Wim Hof breathing method.
+- [Focu](https://github.com/focu-app/focu) - Open-source mindful productivity app for macOS combining focus and wellbeing.
+- [Meditate (Garmin)](https://github.com/vtrifonov-esfiddle/Meditate) - Open-source meditation app designed for Garmin smartwatches.
+
+### Mood Tracking
+
+- [Nomie](https://github.com/open-nomie/nomie5) - Privacy-focused personal tracker and life-logging app for mood, habits, and more.
+- [Mood by KrauseFx](https://github.com/KrauseFx/mood) - Quick and simple app for tracking your current level of happiness over time.
+- [Pixy Mood Tracker](https://github.com/mrzmyr/pixy-mood-tracker-app) - Minimalistic app that tracks your mood as one pixel per day.
+- [Star Book](https://github.com/hashirshoaeb/star_book) - Digital diary and mood tracking app built with Flutter.
+- [Baseline](https://github.com/nkalupahana/baseline) - Mental health journaling and mood tracking app with a focus on simplicity.
+- [Tempo](https://github.com/agateblue/tempo) - Open-source personal diary and mood tracker with data visualization.
+- [MoodTracker](https://github.com/benji6/moodtracker) - Serverless and offline-first progressive web app for mood tracking.
+- [Coffeelings](https://github.com/cnnmon/coffeelings) - Mini journal and mood tracker available as a Chrome extension.
+
+### Journaling
+
+- [Pile](https://github.com/UdaraJay/Pile) - Beautiful open-source desktop app for reflective digital journaling.
+- [Mini Diary](https://github.com/samuelmeuli/mini-diary) - Simple and secure journal app with a clean, distraction-free interface.
+- [StoryPad](https://github.com/theachoem/storypad) - Open-source diary and journal app with over 100k downloads on mobile.
+- [tui-journal](https://github.com/AmmarAbouZor/tui-journal) - Terminal-based journal app for developers who prefer the command line.
+- [Sol Journal](https://github.com/gillkyle/sol-journal) - Personal journaling progressive web app focused on gratitude and reflection.
+- [Presently](https://github.com/alisonthemonster/Presently) - Android gratitude journal app with over one million installs on Google Play.
+
+### Mental Health Platforms
+
+- [if-me.org](https://github.com/ifmeorg/ifme) - Open-source mental health communication app for sharing experiences with trusted allies.
+- [EmoLLM](https://github.com/SmartFlowAI/EmoLLM) - Mental health large language model project with fine-tuning and RAG for psychological support.
+- [Symbiants](https://github.com/MeoMix/symbiants) - Ant colony simulation gamified with daily mental health exercises and habit building.
 
 ## Tools
 
@@ -122,7 +167,6 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 - [SAMHSA National Helpline](https://www.samhsa.gov/find-help/national-helpline) - Free referral service for mental health and substance abuse treatment available 24/7.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) - Non-profit dedicated to raising awareness and changing the culture around mental health in tech.
 - [Mental Health Hackers](https://www.mentalhealthhackers.org/) - Community at the intersection of information security and mental health advocacy.
-- [if-me.org](https://www.if-me.org/) - Open-source mental health communication app for sharing experiences with trusted people.
 - [TED Talks: Mental Health](https://www.ted.com/topics/mental+health) - Curated collection of TED talks on mental health, resilience, and emotional wellbeing.
 - [MindShift CBT](https://www.anxietycanada.com/resources/mindshift-cbt/) - Free anxiety relief app by Anxiety Canada based on cognitive behavioral therapy strategies.
 - [r/mentalhealth](https://www.reddit.com/r/mentalhealth/) - Reddit community for mental health discussion, peer support, and resource sharing.
