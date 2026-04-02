@@ -43,6 +43,15 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 - [Bearable](https://bearable.app/) - Health and mood tracker that helps correlate symptoms, medications, and lifestyle factors.
 - [Finch](https://finchcare.com/) - Self-care pet app that encourages daily wellness routines through goal setting and check-ins.
 - [7 Cups](https://www.7cups.com/) - Platform offering free emotional support through trained volunteer listeners and online therapy.
+- [Youper](https://www.youper.ai/) - AI-driven emotional health assistant that uses CBT and ACT techniques for mood improvement.
+- [Smiling Mind](https://www.smilingmind.com.au/) - Free Australian mindfulness app designed for all ages with programs for schools and workplaces.
+- [Talkspace](https://www.talkspace.com/) - Online therapy platform connecting users with licensed therapists via text, audio, and video.
+- [BetterHelp](https://www.betterhelp.com/) - Online counseling platform providing access to licensed therapists through messaging and live sessions.
+- [Happify](https://www.happify.com/) - Science-based activities and games designed to reduce stress and build resilience.
+- [Replika](https://replika.ai/) - AI companion chatbot that provides empathetic conversation and emotional support.
+- [Wysa](https://www.wysa.com/) - AI mental health chatbot offering evidence-based therapeutic techniques and self-help exercises.
+- [Shine](https://www.theshineapp.com/) - Daily self-care app with inclusive meditation, articles, and community support for diverse identities.
+- [Rootd](https://www.rootd.io/) - Panic attack and anxiety relief app with guided breathing, body scan, and grounding exercises.
 
 ## Blogs
 
@@ -56,6 +65,16 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 - [Mind (UK) Blog](https://www.mind.org.uk/information-support/) - Mental health charity providing information and support for a range of mental health conditions.
 - [The Blurt Foundation](https://www.blurtitout.org/blog/) - Blog focused on depression awareness with practical self-care tips and personal stories.
 - [Verywell Mind](https://www.verywellmind.com/) - Expert-reviewed articles on mental health conditions, therapy, self-improvement, and wellness.
+- [Wait But Why](https://waitbutwhy.com/) - Long-form blog by Tim Urban exploring procrastination, motivation, and how the mind works.
+- [Captain Awkward](https://captainawkward.com/) - Advice blog covering boundaries, relationships, and mental health with compassion and directness.
+- [Calm Blog](https://www.calm.com/blog/) - Articles on mindfulness, sleep science, stress management, and mental fitness.
+- [The Cut - Mental Health](https://www.thecut.com/tags/mental-health/) - New York Magazine's mental health coverage with personal essays and expert perspectives.
+- [Psychology Today](https://www.psychologytoday.com/us/blog) - Large collection of expert-authored blogs spanning every area of mental health and human behavior.
+- [Headspace Blog](https://www.headspace.com/articles) - Articles on meditation techniques, stress relief, focus, and building a mindfulness practice.
+- [The Gottman Institute Blog](https://www.gottman.com/blog/) - Research-based articles on relationships, emotional intelligence, and couples' mental health.
+- [Brain Pickings (The Marginalian)](https://www.themarginalian.org/) - Maria Popova's blog exploring the intersection of literature, philosophy, and the inner life.
+- [Hey Sigmund](https://www.heysigmund.com/) - Psychologist-authored blog focused on anxiety in children and adults with brain-science explanations.
+- [Therapy in a Nutshell](https://therapyinanutshell.com/) - Licensed therapist Emma McAdam's blog offering accessible mental health education and skills.
 
 ## Books
 
@@ -69,6 +88,16 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 - [Maybe You Should Talk to Someone](https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone) - Lori Gottlieb's memoir exploring therapy from both the therapist's and patient's perspective.
 - [The Happiness Trap](https://www.goodreads.com/book/show/3250347-the-happiness-trap) - Russ Harris introduces acceptance and commitment therapy as a path to a rich and meaningful life.
 - [It's OK That You're Not OK](https://www.goodreads.com/book/show/34286108-it-s-ok-that-you-re-not-ok) - Megan Devine's compassionate guide to navigating grief that challenges the idea of moving on.
+- [The Noonday Demon](https://www.goodreads.com/book/show/21853.The_Noonday_Demon) - Andrew Solomon's award-winning exploration of depression through personal narrative, science, and culture.
+- [Quiet: The Power of Introverts](https://www.goodreads.com/book/show/8520610-quiet) - Susan Cain makes the case for introverts and explores how personality shapes mental wellbeing.
+- [Burnout: The Secret to Unlocking the Stress Cycle](https://www.goodreads.com/book/show/42397849-burnout) - Emily and Amelia Nagoski explain the science of stress and how to complete the stress response cycle.
+- [When Things Fall Apart](https://www.goodreads.com/book/show/687278.When_Things_Fall_Apart) - Pema Chodron's Buddhist-inspired guide to finding courage and wisdom during difficult times.
+- [Set Boundaries, Find Peace](https://www.goodreads.com/book/show/55782639-set-boundaries-find-peace) - Nedra Glover Tawwab's practical guide to establishing healthy boundaries for improved mental health.
+- [Adult Children of Emotionally Immature Parents](https://www.goodreads.com/book/show/23129659-adult-children-of-emotionally-immature-parents) - Lindsay Gibson helps readers understand and recover from growing up with emotionally unavailable parents.
+- [The Dialectical Behavior Therapy Skills Workbook](https://www.goodreads.com/book/show/369266.The_Dialectical_Behavior_Therapy_Skills_Workbook) - Practical workbook teaching DBT skills for emotional regulation, distress tolerance, and interpersonal effectiveness.
+- [Why Has Nobody Told Me This Before?](https://www.goodreads.com/book/show/58536046-why-has-nobody-told-me-this-before) - Dr. Julie Smith distills therapy tools into accessible advice for managing everyday mental health challenges.
+- [Attached](https://www.goodreads.com/book/show/9547888-attached) - Amir Levine and Rachel Heller explain attachment theory and how it shapes adult relationships and emotional health.
+- [The Gifts of Imperfection](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) - Brene Brown's guide to letting go of perfectionism and embracing vulnerability for wholehearted living.
 
 ## Courses
 
@@ -79,6 +108,12 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 - [Positive Psychology (UPenn)](https://www.coursera.org/specializations/positivepsychology) - Martin Seligman's specialization on the science of resilience, grit, and flourishing.
 - [Mindfulness-Based Stress Reduction (Palouse)](https://palousemindfulness.com/) - Free online adaptation of the classic eight-week MBSR program developed by Jon Kabat-Zinn.
 - [Buddhism and Modern Psychology (Princeton)](https://www.coursera.org/learn/science-of-meditation) - Course examining Buddhist concepts through the lens of modern psychology and neuroscience.
+- [Introduction to Psychology (MIT OpenCourseWare)](https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/) - Free MIT course covering cognitive and emotional psychology fundamentals.
+- [Psychological First Aid (Johns Hopkins)](https://www.coursera.org/learn/psychological-first-aid) - Course on providing immediate support to people experiencing acute stress and trauma.
+- [The Social Psychology of Happiness (University of Queensland)](https://www.edx.org/learn/psychology/the-university-of-queensland-the-science-of-everyday-thinking) - Course exploring how social factors influence happiness and decision-making.
+- [Trauma-Informed Care (University at Buffalo)](https://socialwork.buffalo.edu/social-research/institutes-centers/institute-on-trauma-and-trauma-informed-care/what-is-trauma-informed-care.html) - Educational resources on understanding and implementing trauma-informed approaches.
+- [Wellness Skills (University of Michigan)](https://www.coursera.org/learn/wellness-skills) - Course teaching evidence-based wellness strategies for stress management and emotional resilience.
+- [CBT Fundamentals (Beck Institute)](https://beckinstitute.org/online-learning/) - Online courses from the leading CBT institution covering core cognitive behavioral therapy skills.
 
 ## Miscellaneous
 
@@ -92,6 +127,16 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 - [MindShift CBT](https://www.anxietycanada.com/resources/mindshift-cbt/) - Free anxiety relief app by Anxiety Canada based on cognitive behavioral therapy strategies.
 - [r/mentalhealth](https://www.reddit.com/r/mentalhealth/) - Reddit community for mental health discussion, peer support, and resource sharing.
 - [Burnout Index](https://burnoutindex.yerbo.co/) - Free self-assessment tool to measure risk of work-related burnout.
+- [Mental Health America Screening Tools](https://screening.mhanational.org/screening-tools/) - Free anonymous screening tools for depression, anxiety, bipolar, PTSD, and more.
+- [Emotions Anonymous](https://emotionsanonymous.org/) - Twelve-step fellowship for people seeking emotional wellbeing through shared experience.
+- [To Write Love on Her Arms](https://twloha.com/) - Non-profit dedicated to presenting hope for people struggling with depression, addiction, and self-injury.
+- [The Jed Foundation](https://jedfoundation.org/) - Non-profit protecting emotional health and preventing suicide among teens and young adults.
+- [Active Minds](https://www.activeminds.org/) - Student-led organization promoting mental health awareness and education on college campuses.
+- [Stamp Out Stigma](https://www.stampoutstigma.com/) - Campaign by the Association for Behavioral Health and Wellness to end mental health stigma.
+- [Project Semicolon](https://projectsemicolon.com/) - Non-profit movement dedicated to suicide prevention and mental health awareness through storytelling.
+- [DBSA (Depression and Bipolar Support Alliance)](https://www.dbsalliance.org/) - Peer-led support groups and educational resources for people living with mood disorders.
+- [Anxiety and Depression Association of America](https://adaa.org/) - Resources, webinars, and therapist directory for anxiety, depression, OCD, and PTSD.
+- [International OCD Foundation](https://iocdf.org/) - Education, resources, and provider directory for obsessive-compulsive disorder and related conditions.
 
 <!-- END CONTENT -->
 
@@ -109,3 +154,6 @@ Check out these other awesome lists:
 - [Awesome Healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of open-source healthcare software, libraries, and resources.
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Curated list of neuroscience libraries, software, and resources.
 - [Awesome Self-Care](https://github.com/nicedoc/awesome-self-care) - Resources and tools to help developers and tech workers practice self-care.
+- [Awesome Wellness](https://github.com/markodenic/awesome-wellness) - Curated list of apps and resources focused on fitness, nutrition, and mental wellness.
+- [Awesome Psychology](https://github.com/weeeBox/awesome-psychology) - Curated list of psychology resources including research papers, books, and tools.
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - Resources for remote work including tips on maintaining work-life balance and avoiding burnout.
