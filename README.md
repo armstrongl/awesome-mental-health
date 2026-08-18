@@ -80,6 +80,7 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 
 - [Calm](https://www.calm.com/) - App for meditation, sleep stories, breathing exercises, and relaxation techniques.
 - [Headspace](https://www.headspace.com/) - Guided meditation and mindfulness app with courses for stress, sleep, and focus.
+- [Masked But Aware Crisis Mode](https://www.maskedbutaware.nl/en/tools/crisis-mode) - Browser-based support tool that reduces decisions and helps communicate immediate needs during overload; not an emergency service.
 - [Woebot](https://woebothealth.com/) - AI-powered mental health chatbot grounded in cognitive behavioral therapy techniques.
 - [Daylio](https://daylio.net/) - Mood and activity tracker that helps identify patterns in emotional wellbeing.
 - [Moodfit](https://www.getmoodfit.com/) - Mental health toolkit with mood tracking, CBT exercises, breathing, and gratitude journaling.
