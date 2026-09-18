@@ -75,6 +75,7 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 - [if-me.org](https://github.com/ifmeorg/ifme) - Open-source mental health communication app for sharing experiences with trusted allies.
 - [EmoLLM](https://github.com/SmartFlowAI/EmoLLM) - Mental health large language model project with fine-tuning and RAG for psychological support.
 - [Symbiants](https://github.com/MeoMix/symbiants) - Ant colony simulation gamified with daily mental health exercises and habit building.
+- [Tai Chi Reset](https://taichi.silentdirectivellc.com/?utm_source=awesome-mental-health&utm_medium=resource-directory) - A personalised 4-week gentle tai chi plan you follow in the browser, plus six free full-length guides (chair tai chi, balance after 60, a 5-minute shoulder reset) that need no signup. Paid plan is $4.99 for 14 days, then $19.99 every 4 weeks.
 
 ## Tools
 
