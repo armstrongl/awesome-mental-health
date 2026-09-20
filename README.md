@@ -143,6 +143,7 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 - [Why Has Nobody Told Me This Before?](https://www.goodreads.com/book/show/58536046-why-has-nobody-told-me-this-before) - Dr. Julie Smith distills therapy tools into accessible advice for managing everyday mental health challenges.
 - [Attached](https://www.goodreads.com/book/show/9547888-attached) - Amir Levine and Rachel Heller explain attachment theory and how it shapes adult relationships and emotional health.
 - [The Gifts of Imperfection](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) - Brene Brown's guide to letting go of perfectionism and embracing vulnerability for wholehearted living.
+- [The Inside-Out Entrepreneur](https://www.goodreads.com/book/show/221519250-the-inside-out-entrepreneur) - Mohamed F. Ahmed's framework for conditioning the founder rather than the company, covering six mindsets, mental robustness as a trainable skill, and building a support system before the crisis hits.
 
 ## Courses
 
