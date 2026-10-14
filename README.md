@@ -97,6 +97,7 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 - [Wysa](https://www.wysa.com/) - AI mental health chatbot offering evidence-based therapeutic techniques and self-help exercises.
 - [Shine](https://www.theshineapp.com/) - Daily self-care app with inclusive meditation, articles, and community support for diverse identities.
 - [Rootd](https://www.rootd.io/) - Panic attack and anxiety relief app with guided breathing, body scan, and grounding exercises.
+- [veisund](https://www.veisund.com/) - Anonymous peer-support app for mental health where members post under a handle and others who have been there can answer, plus a sourced library on psychiatric medications.
 
 ## Blogs
 
