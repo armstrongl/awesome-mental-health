@@ -94,6 +94,7 @@ An awesome list of blogs, books, apps, and other resources for mental health and
 - [BetterHelp](https://www.betterhelp.com/) - Online counseling platform providing access to licensed therapists through messaging and live sessions.
 - [Happify](https://www.happify.com/) - Science-based activities and games designed to reduce stress and build resilience.
 - [Replika](https://replika.ai/) - AI companion chatbot that provides empathetic conversation and emotional support.
+- [Ripple](https://ripplefocus.github.io/en/) - Free Android and iOS 16+ app that helps cut compulsive short-video scrolling and late-night phone use. Rule changes wait through a 15-minute cooldown, the app can lock itself against uninstalling, and it runs fully offline with no ads.
 - [Wysa](https://www.wysa.com/) - AI mental health chatbot offering evidence-based therapeutic techniques and self-help exercises.
 - [Shine](https://www.theshineapp.com/) - Daily self-care app with inclusive meditation, articles, and community support for diverse identities.
 - [Rootd](https://www.rootd.io/) - Panic attack and anxiety relief app with guided breathing, body scan, and grounding exercises.
